@@ -11,7 +11,7 @@
   },
   {
     "codigo": "5912",
-    "nombre": "Elementos de Álgebra y de Geometría",
+    "nombre": "Elementos de Algebra y de Geometría",
     "cursada": false,
     "aprobada": false,
     "correlativas_cursado": [],
@@ -36,11 +36,11 @@
     "aprobada": false,
     "correlativas_cursado": [
       "Resolución de Problemas y Algoritmos",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "correlativas_final": [
       "Resolución de Problemas y Algoritmos",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "año": "PRIMER AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
@@ -52,11 +52,11 @@
     "aprobada": false,
     "correlativas_cursado": [
       "Resolución de Problemas y Algoritmos",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "correlativas_final": [
       "Resolución de Problemas y Algoritmos",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "año": "PRIMER AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
@@ -68,11 +68,11 @@
     "aprobada": false,
     "correlativas_cursado": [
       "Resolución de Problemas y Algoritmos",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "correlativas_final": [
       "Resolución de Problemas y Algoritmos",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "año": "PRIMER AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
@@ -83,10 +83,10 @@
     "cursada": false,
     "aprobada": false,
     "correlativas_cursado": [
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "correlativas_final": [
-      "Elementos de Álgebra y de Geometría",
+      "Elementos de Algebra y de Geometría",
       "Análisis Matemático I"
     ],
     "año": "SEGUNDO AÑO",
@@ -329,9 +329,9 @@
       "Bases de Datos"
     ],
     "correlativas_final": [
+      "Requerimientos de Sistemas",
       "Métodos Formales para Ingeniería de Software",
-      "Bases de Datos",
-      "Requerimientos de Sistemas"
+      "Bases de Datos"
     ],
     "año": "CUARTO AÑO",
     "cuatrimestre": "PRIMER CUATRIMESTRE"
@@ -390,11 +390,11 @@
     "aprobada": false,
     "correlativas_cursado": [
       "Análisis Matemático I",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "correlativas_final": [
       "Análisis Matemático I",
-      "Elementos de Álgebra y de Geometría"
+      "Elementos de Algebra y de Geometría"
     ],
     "año": "CUARTO AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
@@ -497,8 +497,8 @@
       "Física I"
     ],
     "correlativas_final": [
-      "Análisis Matemático II",
-      "Física I"
+      "Física I",
+      "Análisis Matemático II"
     ],
     "año": "QUINTO AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
