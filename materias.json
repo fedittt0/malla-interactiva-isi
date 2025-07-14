@@ -67,12 +67,8 @@
     "cursada": false,
     "aprobada": false,
     "correlativas_cursado": [
-      "Resolución de Problemas y Algoritmos",
-      "Elementos de Algebra y de Geometría"
     ],
     "correlativas_final": [
-      "Resolución de Problemas y Algoritmos",
-      "Elementos de Algebra y de Geometría"
     ],
     "año": "PRIMER AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
