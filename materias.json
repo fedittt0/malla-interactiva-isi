@@ -66,10 +66,8 @@
     "nombre": "Introducción a la Ingeniería de Software",
     "cursada": false,
     "aprobada": false,
-    "correlativas_cursado": [
-    ],
-    "correlativas_final": [
-    ],
+    "correlativas_cursado": [],
+    "correlativas_final": [],
     "año": "PRIMER AÑO",
     "cuatrimestre": "SEGUNDO CUATRIMESTRE"
   },
