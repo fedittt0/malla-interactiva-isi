@@ -1,0 +1,98 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  background-color: #121212;
+  color: #fff;
+  padding: 2rem;
+}
+h1 {
+  color: #1db954;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+h2 {
+  color: #1db954; /* Color para los años */
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5rem;
+}
+h3 {
+  color: #c0c0c0; /* Color para los cuatrimestres */
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.1em;
+}
+
+#malla-container {
+  display: flex;
+  flex-direction: column; /* Organiza años en columna */
+  gap: 2rem; /* Espacio entre secciones de año */
+}
+
+.ano-section {
+  padding: 1rem;
+  background-color: #1e1e1e;
+  border-radius: 10px;
+}
+
+.cuatrimestre-section {
+  margin-bottom: 1.5rem;
+}
+
+.materias-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); /* Ajusta el tamaño de la tarjeta */
+  gap: 1rem;
+}
+
+.card {
+  background: #282828;
+  border-radius: 8px;
+  padding: 1rem;
+  min-height: 80px; /* Altura mínima para las tarjetas */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.9em;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease-in-out;
+  border-left: 5px solid transparent; /* Borde por defecto transparente */
+}
+
+/* Colores de estado */
+.cursada {
+  border-left: 5px solid #ffcc00; /* Amarillo */
+}
+.aprobada {
+  border-left: 5px solid #1db954; /* Verde de Spotify */
+}
+.bloqueada {
+  background: #333; /* Fondo más oscuro para bloqueadas */
+  color: #888; /* Texto gris */
+  cursor: not-allowed; /* Cursor de "no permitido" */
+  opacity: 0.6; /* Un poco de transparencia */
+  box-shadow: none; /* Sin sombra para que se vean "inactivas" */
+}
+
+/* Efecto hover solo para tarjetas no bloqueadas */
+.card:not(.bloqueada):hover {
+  transform: translateY(-3px); /* Pequeño efecto de elevación */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  background: #3a3a3a; /* Cambio de color al hacer hover */
+}
+
+.card.cursada:not(.bloqueada):hover {
+  background: #e6b800; /* Hover más amarillo para cursada */
+}
+.card.aprobada:not(.bloqueada):hover {
+  background: #178a40; /* Hover más oscuro para aprobada */
+}
+
+/* Asegurar que las tarjetas bloqueadas no respondan al hover */
+.card.bloqueada:hover {
+  transform: none;
+  box-shadow: none;
+  background: #333; /* Mantener el color de bloqueada en hover */
+}

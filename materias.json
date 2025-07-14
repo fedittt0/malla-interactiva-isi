@@ -1,0 +1,516 @@
+[
+  {
+    "codigo": "5793",
+    "nombre": "Resolución de Problemas y Algoritmos",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [],
+    "correlativas_final": [],
+    "año": "PRIMER AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "5912",
+    "nombre": "Elementos de Álgebra y de Geometría",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [],
+    "correlativas_final": [],
+    "año": "PRIMER AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "5551",
+    "nombre": "Análisis Matemático I",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [],
+    "correlativas_final": [],
+    "año": "PRIMER AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7713",
+    "nombre": "Introducción a la Programación Orientada a Objetos",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Resolución de Problemas y Algoritmos",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "correlativas_final": [
+      "Resolución de Problemas y Algoritmos",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "año": "PRIMER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7791",
+    "nombre": "Lenguajes Formales y Autómatas",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Resolución de Problemas y Algoritmos",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "correlativas_final": [
+      "Resolución de Problemas y Algoritmos",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "año": "PRIMER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7714",
+    "nombre": "Introducción a la Ingeniería de Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Resolución de Problemas y Algoritmos",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "correlativas_final": [
+      "Resolución de Problemas y Algoritmos",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "año": "PRIMER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "5552",
+    "nombre": "Análisis Matemático II",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "correlativas_final": [
+      "Elementos de Álgebra y de Geometría",
+      "Análisis Matemático I"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7655",
+    "nombre": "Estructuras de Datos",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Análisis Matemático I",
+      "Introducción a la Programación Orientada a Objetos"
+    ],
+    "correlativas_final": [
+      "Análisis Matemático I",
+      "Introducción a la Programación Orientada a Objetos"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7949",
+    "nombre": "Teoría de la Computabilidad",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Introducción a la Programación Orientada a Objetos",
+      "Lenguajes Formales y Autómatas"
+    ],
+    "correlativas_final": [
+      "Introducción a la Programación Orientada a Objetos",
+      "Lenguajes Formales y Autómatas"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7951",
+    "nombre": "Tecnología de Programación",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Estructuras de Datos"
+    ],
+    "correlativas_final": [
+      "Estructuras de Datos",
+      "Introducción a la Programación Orientada a Objetos"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "5744",
+    "nombre": "Organización de Computadoras",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Lenguajes Formales y Autómatas",
+      "Estructuras de Datos"
+    ],
+    "correlativas_final": [
+      "Lenguajes Formales y Autómatas",
+      "Estructuras de Datos",
+      "Introducción a la Programación Orientada a Objetos"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7821",
+    "nombre": "Modelos de Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Lenguajes Formales y Autómatas",
+      "Introducción a la Programación Orientada a Objetos",
+      "Introducción a la Ingeniería de Software"
+    ],
+    "correlativas_final": [
+      "Lenguajes Formales y Autómatas",
+      "Introducción a la Programación Orientada a Objetos",
+      "Introducción a la Ingeniería de Software"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7820",
+    "nombre": "Modelos Estadísticos para Ciencias de la Computación",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Lenguajes Formales y Autómatas"
+    ],
+    "correlativas_final": [
+      "Lenguajes Formales y Autómatas",
+      "Análisis Matemático I"
+    ],
+    "año": "SEGUNDO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "5704",
+    "nombre": "Lógica para Ciencias de la Computación",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Tecnología de Programación"
+    ],
+    "correlativas_final": [
+      "Tecnología de Programación",
+      "Teoría de la Computabilidad"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7911",
+    "nombre": "Requerimientos de Sistemas",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Tecnología de Programación",
+      "Modelos de Software"
+    ],
+    "correlativas_final": [
+      "Tecnología de Programación",
+      "Modelos de Software",
+      "Estructuras de Datos"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "5561",
+    "nombre": "Arquitectura de Computadoras",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Organización de Computadoras"
+    ],
+    "correlativas_final": [
+      "Organización de Computadoras",
+      "Lenguajes Formales y Autómatas"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7811",
+    "nombre": "Métodos Formales para Ingeniería de Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Requerimientos de Sistemas",
+      "Lógica para Ciencias de la Computación"
+    ],
+    "correlativas_final": [
+      "Requerimientos de Sistemas",
+      "Lógica para Ciencias de la Computación",
+      "Tecnología de Programación",
+      "Modelos de Software",
+      "Análisis Matemático I"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "6601",
+    "nombre": "Química IS",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [],
+    "correlativas_final": [
+      "Análisis Matemático I"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "5949",
+    "nombre": "Sistemas Operativos",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Organización de Computadoras",
+      "Modelos de Software"
+    ],
+    "correlativas_final": [
+      "Organización de Computadoras",
+      "Modelos de Software",
+      "Arquitectura de Computadoras"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7552",
+    "nombre": "Bases de Datos",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Arquitectura de Computadoras",
+      "Requerimientos de Sistemas",
+      "Lógica para Ciencias de la Computación"
+    ],
+    "correlativas_final": [
+      "Arquitectura de Computadoras",
+      "Requerimientos de Sistemas",
+      "Lógica para Ciencias de la Computación"
+    ],
+    "año": "TERCER AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7680",
+    "nombre": "Ingeniería de Aplicaciones de Web",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Sistemas Operativos",
+      "Bases de Datos"
+    ],
+    "correlativas_final": [
+      "Sistemas Operativos",
+      "Bases de Datos",
+      "Requerimientos de Sistemas"
+    ],
+    "año": "CUARTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7527",
+    "nombre": "Arquitectura y Diseño de Sistemas",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Métodos Formales para Ingeniería de Software",
+      "Bases de Datos"
+    ],
+    "correlativas_final": [
+      "Métodos Formales para Ingeniería de Software",
+      "Bases de Datos",
+      "Requerimientos de Sistemas"
+    ],
+    "año": "CUARTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "5523",
+    "nombre": "Algoritmos y Complejidad",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Lógica para Ciencias de la Computación",
+      "Tecnología de Programación"
+    ],
+    "correlativas_final": [
+      "Lógica para Ciencias de la Computación"
+    ],
+    "año": "CUARTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7891",
+    "nombre": "Proyectos de Sistemas de Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Arquitectura y Diseño de Sistemas",
+      "Bases de Datos"
+    ],
+    "correlativas_final": [
+      "Arquitectura y Diseño de Sistemas"
+    ],
+    "año": "CUARTO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7993",
+    "nombre": "Verificación y Validación de Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Algoritmos y Complejidad",
+      "Arquitectura y Diseño de Sistemas"
+    ],
+    "correlativas_final": [
+      "Algoritmos y Complejidad",
+      "Arquitectura y Diseño de Sistemas",
+      "Métodos Formales para Ingeniería de Software"
+    ],
+    "año": "CUARTO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "3051",
+    "nombre": "Física I",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Análisis Matemático I",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "correlativas_final": [
+      "Análisis Matemático I",
+      "Elementos de Álgebra y de Geometría"
+    ],
+    "año": "CUARTO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7668",
+    "nombre": "Gestión de Calidad en el Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Proyectos de Sistemas de Software",
+      "Verificación y Validación de Software"
+    ],
+    "correlativas_final": [
+      "Proyectos de Sistemas de Software",
+      "Verificación y Validación de Software",
+      "Arquitectura y Diseño de Sistemas"
+    ],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7886",
+    "nombre": "Práctica Profesional Supervisada para Ingeniería de Software",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [],
+    "correlativas_final": [],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "2115",
+    "nombre": "Economía de la Empresa ISS",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Proyectos de Sistemas de Software"
+    ],
+    "correlativas_final": [
+      "Proyectos de Sistemas de Software"
+    ],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7903",
+    "nombre": "Redes de Computadoras",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Sistemas Operativos",
+      "Arquitectura de Computadoras"
+    ],
+    "correlativas_final": [
+      "Sistemas Operativos",
+      "Arquitectura de Computadoras",
+      "Proyectos de Sistemas de Software"
+    ],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "PRIMER CUATRIMESTRE"
+  },
+  {
+    "codigo": "7534",
+    "nombre": "Auditoría de Sistemas",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Proyectos de Sistemas de Software"
+    ],
+    "correlativas_final": [
+      "Proyectos de Sistemas de Software"
+    ],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7922",
+    "nombre": "Sistemas Inteligentes Artificiales",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Bases de Datos",
+      "Modelos Estadísticos para Ciencias de la Computación"
+    ],
+    "correlativas_final": [
+      "Bases de Datos",
+      "Modelos Estadísticos para Ciencias de la Computación"
+    ],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "3058",
+    "nombre": "Física II IS",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [
+      "Análisis Matemático II",
+      "Física I"
+    ],
+    "correlativas_final": [
+      "Análisis Matemático II",
+      "Física I"
+    ],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "SEGUNDO CUATRIMESTRE"
+  },
+  {
+    "codigo": "7895",
+    "nombre": "Proyecto Final",
+    "cursada": false,
+    "aprobada": false,
+    "correlativas_cursado": [],
+    "correlativas_final": [],
+    "año": "QUINTO AÑO",
+    "cuatrimestre": "ANUAL"
+  }
+]
